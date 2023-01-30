@@ -1,0 +1,8 @@
+{
+	"extension": ["ts"],
+	"file": "test/setup.unit.ts",
+	"spec": "test/unit/**/*.spec.ts",
+	"timeout": 20000,
+	"color": true,
+	"ui": "bdd"
+}
